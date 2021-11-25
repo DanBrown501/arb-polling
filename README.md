@@ -10,3 +10,4 @@ This app is only constructed to poll prices and alert you when an arb opportunit
 
 It doesn't actually make a smart contract and call the flashloan. BUT! it is the base of what we want to do.
 
+Also, run 'npm install' in the root folder to create a node_modules folder and install the dependencies in there.
